@@ -85,3 +85,4 @@ AI-Event-Management-Platform/
 
 This project is licensed under the [MIT License](file:///c:/Users/heema/Desktop/repo/LICENSE).
 "# -AI-Event-Management-Platform" 
+"# AI-Event-Management-Platform" 
