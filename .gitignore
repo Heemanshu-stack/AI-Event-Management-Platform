@@ -19,7 +19,15 @@ yarn-error.log*
 *.swp
 *.swo
 
+# Next.js Build Output & Cache
+.next/
+website/.next/
+website/node_modules/
+.vercel/
+website/.vercel/
+
 # Temporary Files & Logs
 *.log
 tmp/
 dist/
+scratch/
